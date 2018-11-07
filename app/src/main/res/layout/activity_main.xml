@@ -78,6 +78,7 @@
         android:layout_marginTop="8dp"
         android:background="@drawable/btn_green"
         android:padding="12dp"
+        android:text="@string/lable_submit"
         android:textColor="#fff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
