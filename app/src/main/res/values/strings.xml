@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NettyFinder</string>
+    <string name="label_message">This App checks a Nigerian Telephone number and detects which network it belongs to.</string>
+    <string name="hint_input">Enter number without [+234] e.g 08109445504</string>
+    <string name="hint_input_phone">Enter Phone Number</string>
+    <string name="lable_submit">Submit</string>
 </resources>
